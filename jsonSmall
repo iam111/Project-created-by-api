@@ -1,0 +1,15 @@
+{
+    "result": {
+        "result": [
+            {
+                "products_id": "17",
+                "products_image": [
+                    "https://store.01synergy.com/public/images/media/2020/03/thumbnail1583400912QmxdQ05909.jpg",
+                    "https://store.01synergy.com/public/images/media/2020/03/thumbnail1583400911xwfBR05909.jpg"
+                ]
+            }
+        ],
+        "cart": 0
+    },
+    "status_code": 200
+}
