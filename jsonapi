@@ -60,6 +60,65 @@
                 "tax": "",
                 "info": "ATTENTION: Due to the COVID-19 lockdown, we are sincerely sorry for not being able to deliver your item. We are taking orders but will only be able to dispatch the orders once the lockdown has been lifted. We hope you are staying safe and indoors."
             }
+			 {
+                "products_id": "17",
+                "products_type": "Simple",
+                "products_price": "500.00",
+                "products_image": [
+                    "https://raw.githubusercontent.com/iam111/Project-created-by-api/master/servers.jpeg",
+                    "https://store.01synergy.com/public/images/media/2020/03/thumbnail1583400911xwfBR05909.jpg"
+                ],
+                "products_name": "Synergy Clothes",
+                "products_description": "Some Descriptions",
+                "is_feature": "1",
+                "original_image": [
+                    "https://store.01synergy.com/public/images/media/2020/03/QmxdQ05909.jpg"
+                ],
+                "attributes": [],
+                "wishlist_status": 0,
+                "cart_status": 0,
+                "total_price": "",
+                "tax": "",
+                "info": "ATTENTION: Due to the COVID-19 lockdown, we are sincerely sorry for not being able to deliver your item. We are taking orders but will only be able to dispatch the orders once the lockdown has been lifted. We hope you are staying safe and indoors."
+            },
+            {
+                "products_id": "16",
+                "products_type": "Variable",
+                "products_price": "350.00",
+                "products_image": [
+                    "https://store.01synergy.com/public/images/media/2020/05/thumbnail1588768164g9JyF06912.png",
+                    "https://store.01synergy.com/public/images/media/2020/05/thumbnail1588768164g9JyF06912.png"
+                ],
+                "products_name": "Synergy Products",
+                "products_description": "Some Descriptions",
+                "is_feature": "1",
+                "original_image": [
+                    "https://store.01synergy.com/public/images/media/2020/05/g9JyF06912.png"
+                ],
+                "attributes": [
+                    {
+                        "options_values_ids": "8",
+                        "options_id": "4",
+                        "products_id": "16",
+                        "options_name": "Size",
+                        "option_values": [
+                            {
+                                "products_attributes_id": "54",
+                                "options_values_id": "8",
+                                "option_value_id": "8",
+                                "option_value_price": "100.00",
+                                "price_prefix": "+",
+                                "option_value_name": "L"
+                            }
+                        ]
+                    }
+                ],
+                "wishlist_status": 0,
+                "cart_status": 0,
+                "total_price": "",
+                "tax": "",
+                "info": "ATTENTION: Due to the COVID-19 lockdown, we are sincerely sorry for not being able to deliver your item. We are taking orders but will only be able to dispatch the orders once the lockdown has been lifted. We hope you are staying safe and indoors."
+            }
         ],
         "cart": 2
     },
